@@ -1,0 +1,10 @@
+{
+  "name": "expense-bot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "google-auth-library": "^9.0.0",
+    "google-spreadsheet": "^4.1.4"
+  }
+}
